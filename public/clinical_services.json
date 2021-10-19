@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Medical Retina",
+    "img": "https://i.ibb.co/NsV7J13/Medical-Retina.jpg",
+    "category": "clinical service",
+    "details": "Retina is the innermost coat of the eyeball responsible for image perception. Medical retina service at Chittagong Eye infirmary and Training complex deals with the patients having retinal disorders that can be managed medically without any surgical intervention. The medical retina clinic is equipped with modern facilities like fluorescein angiography, Optical coherence tomography and all types of laser services. This clinic is also running a project named “Diabetic Retinopathy Education Training and Treatment” (DRETT) which has been set-up in collaboration with World Diabetic Foundation and Helen Keller International. In this project, patient with diabetic retinopathy are screened, graded & treated accordingly through invasive and non invasive procedures. This clinic also provides counselling to the patients & training for the doctors. Besides, through tele-medicine this service is connected to the other centres at home & abroad."
+  },
+  {
+    "id": 2,
+    "name": "Surgical Retina",
+    "img": "https://i.ibb.co/SxzcVc5/OLYMPUS-DIGITAL-CAMERA.jpg",
+    "category": "clinical service",
+    "detais": "Surgical retina service at this institution deals with the patients having retinal disorders that require surgical intervention. The retinal surgeons perform around 700 surgeries per year of a variety of vitreoretinal conditions like retinal detachment, Intraocular foreign body removal, vitreous haemorrhage, proliferative vitreoretinopathy, advanced diabetic eye disease etc."
+  },
+  {
+    "id": 3,
+    "name": "Paediatric",
+    "img": "https://i.ibb.co/wRPzqTk/Paediatric.jpg",
+    "category": "clinical service",
+    "details": "The Paediatric Ophthalmology department is having facilities such as children play area, separate out patient and in-patient department. The department is run by a team of trained and competent personnel such as paediatric ophthalmologists, Paediatrician, Anesthesiologists, Orthoptists, Optometrists and Counselors. Service to more than 100 patients are provided daily at the out patient department. There is also a dedicated operation theatre which caters approximately 1200 surgeries annually. In the indoor, there is dedicated paediatric ward along with an amusement area. This department is also being utilized as the resource centre of the country and the region. ORBIS international has been providing all logistic support towards development of paediatric eye care service including human resource."
+  },
+  {
+    "id": 4,
+    "name": "Cornea",
+    "img": "https://i.ibb.co/C87m2JS/Cornea.jpg",
+    "category": "clinical service",
+    "details": "Cornea is the transparent front part of the eye. Inflammation, infection, injuries and other disorder of cornea can cause visual impairment. Cornea service is supported by attached Ocular Microbiological Laboratory. Eye bank and Tissue Processing Service. Adequate trained staffs and modern equipments are integral part of cornea service. The service provides facilities to deal with corneal infections of various nature, dry eyes and other corneal disorders. Besides, different surgical procedure like Amniotic  Membrane graft, Keratoplasty, Limbal transplants etc are routinely performed."
+  },
+  {
+    "id": 5,
+    "name": "Neuro",
+    "img": "https://i.ibb.co/rbwTdyM/Neuro.jpg",
+    "category": "clinical service",
+    "details": "CEITC is the lone institution to start this service first & increasing number of patients are receiving treatment due to the referral services. This clinic manages around 3500 patients annually."
+  },
+  {
+    "id": 6,
+    "name": "Orbit, Oculoplasty & Oncology",
+    "img": "https://i.ibb.co/whWQbTS/Orbit.jpg",
+    "category": "clinical service",
+    "details": "Orbit, Oculoplasty & Oncology clinic deals with congenital & various ocular adnexal , orbital, peri orbital disorders like Lid pathologies, Ptosis, Ectropion, Entropion, Enuclation & Evisceration with Implant, Reconstructive surgery and Lacrimal disorders. This clinic also deals with per orbital,Orbital and ocular tumors specially Retinoblastoma. Patients with blepharospam   and hemi facial spasm are treated with injection Botulinum toxin. Annually around 5000 patients are provided service through this clinic and around 900 surgeries are performed. Special care is given to retinoblastoma patients under the clinic. A dedicated team formed with experienced ophthalmologist, Oncologist, pediatrician and Ocularist are dealing with these patients. Different management options like chemotherapy (Intravenoms, intravitreal, and periocular), Local therapy (laser, cryo etc), Surgery, Scheduled follow up, Sibling screening are available. The children of retinoblastoma are managed at a minimal cost."
+  },
+  {
+    "id": 7,
+    "name": "Glaucoma",
+    "img": "https://i.ibb.co/mC3cTMS/Glaucoma.jpg",
+    "category": "clinical service",
+    "details": "Glaucoma is a complex disease affecting the optic nerve at the back of the eye, associated with unstable intraocular pressure, if untreated, can eventually cause irreversible blindness. Glaucoma service at CEITC is managed by a trained & competent team. For efficient management, the clinic is equipped with all necessary equipments like visual field analyser, Optical coherence tomogram, pachymetre, Laser etc. The team of Glaucoma department deals with a large group of congenital & secondary Glaucomas referred from other institutions all over the country. Different types of filtration surgeries with and without collagen implantation, combined cataract & Glaucoma surgeries are done routinely. The clinic deals with around 15000 OPD visits and about 1200 surgeries annually. The department also has short & long term fellowship programs."
+  },
+  {
+    "id": 8,
+    "name": "Cataract Service",
+    "img": "https://i.ibb.co/7rvcKCc/OT.jpg",
+    "category": "clinical service",
+    "details": "Cataract is the leading cause of curable blindness particularly in the ageing population. The patients can be visually rehabilitated satisfactorily through intraocular lens (IOL) implantation after removal of cataractous lens. The hospital performs around 12000 cataract surgeries annually. Small incision cataract surgeries both manual and by phacoemulsification technique are done routinely. One stop service is offered to cataract patients where evaluation, counseling and appointment for surgery are done in a dedicated area. Most of the surgeries are done on day care basis."
+  }
+]

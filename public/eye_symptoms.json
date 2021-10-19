@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Blurred Vision",
+    "img": "https://i.ibb.co/QKvQVcb/Blurred-Visionjpg.jpg",
+    "details": "Blurred vision is the inability to clearly see objects that are either far away or up close. It is commonly a sign of a refractive error like short-sightedness (myopia), long-sightedness (hyperopia), astigmatism or presbyopia (“Lao Hua”). These refractive errors can be corrected with vision correction aids such as spectacles, contact lenses, or with the help of laser refractive eye surgery. Blurred vision can also be caused by dry eyes and cataract as well as more serious eye conditions such as glaucoma and age-related macular degeneration (AMD)."
+  },
+  {
+    "id": 2,
+    "name": "Central Vision Loss",
+    "img": "https://i.ibb.co/rmGJmT9/Central-Vision.jpg",
+    "details": "Central vision loss can occur when a person suffers from age-related macular degeneration and/or diabetic retinopathy.  It starts with a small dark spot in the centre of the vision that gets larger over time.  Central vision loss can progress very quickly.  If this happens, you should consult an eye doctor for an evaluation immediately."
+  },
+  {
+    "id": 3,
+    "name": "Cloudy Vision",
+    "img": "https://i.ibb.co/XXD8XLK/Cloudy-Vision.jpg",
+    "details": "Having cloudy vision or having your vision obscured, as if you are seeing objects through a mist, can be a sign of cataracts. This condition, which is usually age-related, is progressive and can lead to blindness if left untreated. Nowadays, cataracts can be quite easily managed, so it is important to diagnose the disease as early as possible."
+  },
+  {
+    "id": 4,
+    "name": "Colour Blindness",
+    "img": "https://i.ibb.co/4mpBPK5/colour-blindness.jpg",
+    "details": "You could be suffering from colour blindness if you are unable to distinguish red, green or blue colours. The most common form of colour blindness is known as red/green colour blindness. For the vast majority of people with deficient colour vision, the condition is genetic and inherited from their mother, although some people become colour blind as a result of diseases such as certain inherited retinal diseases, diabetes and multiple sclerosis or they acquire the condition over time due to the ageing process (age-related macular degeneration) or consumption of certain medication."
+  },
+  {
+    "id": 5,
+    "name": "Distorted Vision",
+    "img": "https://i.ibb.co/PNhP8GK/distorted-vision.jpg",
+    "details": "Distortion of vision is an inability to see clearly and correctly. Straight lines may appear bent, crooked, or wavy. Usually this is caused by distortion of the retina, specifically in the macula area. This distortion can herald macular degeneration. If you have distorted vision, you should seek medical attention by an eye doctor promptly. Other conditions leading to swelling of the retina can cause this distortion, such as macular edema and central serous chorioretinopathy."
+  },
+  {
+    "id": 6,
+    "name": "Double Vision",
+    "img": "https://i.ibb.co/ZBcV7pt/Double-Vision.png",
+    "details": "Double vision, also called diplopia, is a symptom whereby a patient sees two images of a single object. It can be either monocular diplopia where the problem affects one eye only, or binocular diplopia where the problem comes from misalignment of both eyes. In monocular diplopia, the double vision affects one eye and is present even when the other unaffected eye is covered. Monocular diplopia can be caused by uncorrected refractive errors, corneal disorders, cataracts and retinal disorders."
+  },
+  {
+    "id": 7,
+    "name": "Eye Redness",
+    "img": "https://i.ibb.co/pWWtjV5/Eye-Redness.jpg",
+    "details": "Eye redness may be due to swollen or dilated blood vessels, which cause the surface of the eye to look red. This happens when the vessels in the surface of the white portion of the eye (sclera) become enlarged and irritated. This may result from extremely dry air, sun exposure, dust, foreign body, an allergic reaction, infection, trauma, or other conditions. Eye infections are conditions caused by microbiological agents such as viruses and bacteria that may cause your eyes to become red and swollen. Conjunctivitis (pink eye) is the most common eye infection. It is an inflammation of the conjunctiva and the inner surface of the eyelids, usually due to a viral or bacterial infection. Sometimes, it can also be due to underlying allergic condition."
+  },
+  {
+    "id": 8,
+    "name": "Halos Around Lights",
+    "img": "https://i.ibb.co/0GtKJYF/Halos-Around-Lights.jpg",
+    "details": "Seeing haloes around lights is a symptom where coloured or luminous rings are seen around lights such as street lights or other light sources. Haloes around bright lights tend to be especially worse when driving at night and can interfere with vision and are hence, potentially dangerous. They are commonly associated with glare, a symptom characterised by difficulty looking at bright light as it hurts the eyes, resulting in blurring of vision and tearing."
+  },
+  {
+    "id": 9,
+    "name": "Tunnel Vision",
+    "img": "https://i.ibb.co/ZY1LtNP/tunnel-vision.jpg",
+    "details": "If your central vision is fine, but the areas outside your central field of vision start to lose clarity or detail, you may be losing your peripheral vision. Peripheral vision allows you to see objects all around you without turning your head, and is responsible for detecting motion at the edges of our field of view to sense incoming danger. The remaining central field of vision makes it seem as though you are looking through a tunnel, hence the term “tunnel vision”. The loss of peripheral vision is not only debilitating - it also poses a major safety hazard."
+  },
+  {
+    "id": 10,
+    "name": "Flaky Eyelid",
+    "img": "https://i.ibb.co/mHpgQ2g/Flaky-Eyelid.png",
+    "details": "If you have flaky, peeling skin on your eyelids, it is likely caused by a skin condition known as blepharitis. The skin on your eyelids may be itchy, appear swollen, red, flaky and crusty and you may feel like you are having foreign debris in your eyes. Itchy or flaky lids are irritating, but rarely serious. It is possible to reduce this irritation by keeping your eyelid clean and using artificial tears. If you have blepharitis that does not respond to regular cleaning, you may need to see an eye doctor for further course of treatment, as these may be symptoms of other underlying skin conditions such as rosacea, or Dermodex (eyelash mite) infestation."
+  },
+  {
+    "id": 11,
+    "name": "Swollen Eye",
+    "img": "https://i.ibb.co/R4BPFF9/Swollen-Eyes.jpg",
+    "details": "Swelling of the eyes refers to the presence of excess fluid (oedema) in the connective tissues around the eye along the eyelids. Various causes of a swollen eye include conjunctivitis; blepharitis; infections; insect bites; and allergies to new drugs or cosmetics. More serious, potentially sight-threatening causes of eyelid swelling include orbital cellulitis, thyroid eye disease and trauma or injury to the eye area.Since the causes are wide-ranging, you should make an appointment to discuss your symptoms with an eye doctor and undergo an eye examination. Your condition can thus be treated appropriately and effectively."
+  }
+]
